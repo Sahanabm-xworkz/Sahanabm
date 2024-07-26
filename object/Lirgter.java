@@ -1,0 +1,5 @@
+class Lirgter {
+	 public Lirgter(){
+		 
+	 }
+}
