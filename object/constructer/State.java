@@ -2,7 +2,7 @@ class State{
 	
 	String name;
 	String language;
-   CapitalCity capitalCity=new CapitalCity("bengaluru",10000);
+    CapitalCity capitalCity=new CapitalCity("bengaluru",10000);
 	
 	 public State()
 	 {	 
